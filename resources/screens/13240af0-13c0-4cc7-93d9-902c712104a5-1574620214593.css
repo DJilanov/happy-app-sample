@@ -10,6 +10,25 @@
   width: 100%;
   height: 100%;
 }
+#s-13240af0-13c0-4cc7-93d9-902c712104a5 #s-Image_2 > svg {
+}
+#s-13240af0-13c0-4cc7-93d9-902c712104a5 #s-Image_2 {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-13240af0-13c0-4cc7-93d9-902c712104a5 #s-Image_2 > img, #s-13240af0-13c0-4cc7-93d9-902c712104a5 #s-Image_2 > svg {
+  height: 28px;
+  width: 28px;
+  box-shadow: none;
+}
 .devMobile #jim-container .ui-page {
   overflow-x: hidden;
 }
