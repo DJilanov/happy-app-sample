@@ -1,5 +1,5 @@
 jQuery("#simulation")
-  .on("pageload", ".s-70bb128e-46f2-4626-8d71-4815e1caf146 .pageload", function(event, data) {
+  .on("click", ".s-70bb128e-46f2-4626-8d71-4815e1caf146 .click", function(event, data) {
     var jEvent, jFirer, cases;
     if(data === undefined) { data = event; }
     jEvent = jimEvent(event);
@@ -11,17 +11,9 @@ jQuery("#simulation")
             {
               "actions": [
                 {
-                  "action": "jimPause",
-                  "parameter": {
-                    "pause": 1000
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                },
-                {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/95adc887-3e85-4566-95d6-d7b6077c8c85",
+                    "target": "screens/26ff0418-1394-46f5-a68e-d4da2243ae8a",
                     "transition": {
                       "type": "fade",
                       "duration": 700
@@ -39,7 +31,14 @@ jQuery("#simulation")
       ];
       event.data = data;
       jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-Rectangle_2")) {
+    }
+  })
+  .on("pageload", ".s-70bb128e-46f2-4626-8d71-4815e1caf146 .pageload", function(event, data) {
+    var jEvent, jFirer, cases;
+    if(data === undefined) { data = event; }
+    jEvent = jimEvent(event);
+    jFirer = jEvent.getEventFirer();
+    if(jFirer.is("#s-Rectangle_2")) {
       cases = [
         {
           "blocks": [
