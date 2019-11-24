@@ -7,9 +7,11 @@
     "26ff0418-1394-46f5-a68e-d4da2243ae8a": "Main Screen",
     "88dfb81f-8382-4755-a7fd-b9c39c41f65a": "Product view",
     "d04d0931-a344-4d08-8262-df4d56843c80": "Camera",
+    "4f20b5af-e352-4f0d-93b2-918dbd0cb7c1": "Edit device",
     "95adc887-3e85-4566-95d6-d7b6077c8c85": "Login",
     "a78632eb-fc15-4eb1-a883-94b15ff54b8f": "View product message",
     "6c57dc4e-7cfd-45fe-86ad-bb405ce4cfda": "List of products",
+    "f51250c9-f8db-4dfb-b88c-954024739358": "Chat",
     "1e8a452c-0c3e-434b-9a69-9f88c989dab1": "Template 1",
     "default": "default"
   };

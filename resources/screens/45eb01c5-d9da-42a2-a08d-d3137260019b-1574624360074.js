@@ -139,32 +139,5 @@ jQuery("#simulation")
       ];
       event.data = data;
       jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-Rich_text_47")) {
-      cases = [
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimNavigation",
-                  "parameter": {
-                    "target": "screens/88dfb81f-8382-4755-a7fd-b9c39c41f65a",
-                    "transition": {
-                      "type": "slideleft",
-                      "duration": 700
-                    }
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        }
-      ];
-      event.data = data;
-      jEvent.launchCases(cases);
     }
   });
