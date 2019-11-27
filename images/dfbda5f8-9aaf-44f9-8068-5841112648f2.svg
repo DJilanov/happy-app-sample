@@ -1,0 +1,33 @@
+
+<svg contentScriptType="text/ecmascript" zoomAndPan="magnify"
+     xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css"
+     id="Layer_1" version="1.0" width="64" preserveAspectRatio="xMidYMid meet"
+     viewBox="0 0 64 64" data-name="Layer 1" height="64"
+     xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style type="text/css" xml:space="preserve">.cls-1{fill:#000000;}</style>
+    </defs><title>
+        qqq
+    </title>
+    <path fill="#000000"
+          d="M54,60H8a4,4,0,0,1-4-4V10A4,4,0,0,1,8,6H54a4,4,0,0,1,4,4V56A4,4,0,0,1,54,60ZM8,8a2,2,0,0,0-2,2V56a2,2,0,0,0,2,2H54a2,2,0,0,0,2-2V10a2,2,0,0,0-2-2H8Z"
+          id="sliders_side_2" class="cls-1" data-name="sliders side 2"/>
+    <path fill="#000000"
+          d="M16.33,24.81a4.08,4.08,0,1,0-4.08-4.08A4.08,4.08,0,0,0,16.33,24.81Zm0-6.54a2.45,2.45,0,1,1-2.45,2.45A2.45,2.45,0,0,1,16.33,18.27Z"
+          class="cls-1"/>
+    <path fill="#000000"
+          d="M16.33,38.52a4.08,4.08,0,1,0-4.08-4.08A4.08,4.08,0,0,0,16.33,38.52Zm0-6.54a2.45,2.45,0,1,1-2.45,2.45A2.45,2.45,0,0,1,16.33,32Z"
+          class="cls-1"/>
+    <path fill="#000000"
+          d="M16.33,51.22a4.08,4.08,0,1,0-4.08-4.08A4.08,4.08,0,0,0,16.33,51.22Zm0-6.54a2.45,2.45,0,1,1-2.45,2.45A2.45,2.45,0,0,1,16.33,44.68Z"
+          class="cls-1"/>
+    <path fill="#000000"
+          d="M50.18,19.91h-25a0.82,0.82,0,1,0,0,1.63h25A0.82,0.82,0,1,0,50.18,19.91Z"
+          class="cls-1"/>
+    <path fill="#000000"
+          d="M50.18,33.61h-25a0.82,0.82,0,1,0,0,1.63h25A0.82,0.82,0,1,0,50.18,33.61Z"
+          class="cls-1"/>
+    <path fill="#000000"
+          d="M50.18,46.32h-25a0.82,0.82,0,1,0,0,1.63h25A0.82,0.82,0,1,0,50.18,46.32Z"
+          class="cls-1"/>
+</svg>

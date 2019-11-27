@@ -1,0 +1,21 @@
+
+<svg contentScriptType="text/ecmascript" zoomAndPan="magnify"
+     xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css"
+     id="Layer_1" version="1.0" width="64" preserveAspectRatio="xMidYMid meet"
+     viewBox="0 0 64 64" data-name="Layer 1" height="64"
+     xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style type="text/css" xml:space="preserve">.cls-1{fill:#000000;}</style>
+    </defs><title>
+        presentation
+    </title>
+    <path fill="#000000"
+          d="M54,49V13a1,1,0,0,0-1-1H9a1,1,0,0,0-1,1V49a1,1,0,0,0,1,1H30v0.59L22.29,58.3a1,1,0,0,0,0,1.41,1,1,0,0,0,1.42,0L31,52.41l7.29,7.29A1,1,0,0,0,39,60a1,1,0,0,0,.71-0.29,1,1,0,0,0,0-1.41L32,50.59V50H53A1,1,0,0,0,54,49Zm-2-1H10V14H52V48Z"
+          class="cls-1"/>
+    <path fill="#000000"
+          d="M5,10H57a1,1,0,1,0,0-2H34V7a1,1,0,0,0-1-1H29a1,1,0,0,0-1,1V8H5A1,1,0,0,0,5,10Z"
+          class="cls-1"/>
+    <path fill="#000000"
+          d="M15,40a1,1,0,0,0,.71-0.29L21,34.41l3.29,3.29a1,1,0,0,0,1.41,0L35,28.41l3.29,3.29a1,1,0,0,0,1.41,0L46,25.41V29a1,1,0,1,0,2,0V23a1,1,0,0,0-.08-0.38,1,1,0,0,0-.54-0.54A1,1,0,0,0,47,22H41a1,1,0,0,0,0,2h3.59L39,29.59,35.71,26.3a1,1,0,0,0-1.41,0L25,35.59,21.71,32.3a1,1,0,0,0-1.41,0l-6,6a1,1,0,0,0,0,1.41A1,1,0,0,0,15,40Z"
+          class="cls-1"/>
+</svg>
