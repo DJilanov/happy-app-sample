@@ -13,7 +13,11 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/4d106711-bd40-480a-b01e-4774e30ed78c"
+                    "target": "screens/4d106711-bd40-480a-b01e-4774e30ed78c",
+                    "transition": {
+                      "type": "slideleft",
+                      "duration": 700
+                    }
                   },
                   "exectype": "serial",
                   "delay": 0
