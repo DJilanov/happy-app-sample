@@ -1,5 +1,5 @@
 jQuery("#simulation")
-  .on("click", ".s-a78632eb-fc15-4eb1-a883-94b15ff54b8f .click", function(event, data) {
+  .on("click", ".s-0753223c-98c8-408f-8d48-c995cf61e5fa .click", function(event, data) {
     var jEvent, jFirer, cases;
     if(data === undefined) { data = event; }
     jEvent = jimEvent(event);
@@ -55,6 +55,33 @@ jQuery("#simulation")
       event.data = data;
       jEvent.launchCases(cases);
     } else if(jFirer.is("#s-Button")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimNavigation",
+                  "parameter": {
+                    "target": "screens/f51250c9-f8db-4dfb-b88c-954024739358",
+                    "transition": {
+                      "type": "slideleft",
+                      "duration": 700
+                    }
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Button_1")) {
       cases = [
         {
           "blocks": [

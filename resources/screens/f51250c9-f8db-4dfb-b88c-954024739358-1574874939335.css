@@ -44,14 +44,14 @@
 #s-f51250c9-f8db-4dfb-b88c-954024739358 #s-Text-area {
   position: absolute;
   width: 0px;
-  height: 150px;
+  height: 123px;
   padding-left: 0px;
   padding-bottom: 0px;
   padding-right: 0px;
   padding-top: 0px;
 }
 #s-f51250c9-f8db-4dfb-b88c-954024739358 #s-Text-area textarea {
-  height: 140px;
+  height: 113px;
   width: 75px;
   margin-top: 10px;
   margin-bottom: 0px;
@@ -136,7 +136,7 @@
 #s-f51250c9-f8db-4dfb-b88c-954024739358 #s-Imessage2 {
   position: absolute;
   width: 224px;
-  height: 32px;
+  height: 60px;
 }
 #s-f51250c9-f8db-4dfb-b88c-954024739358 #s-Rich_text_23 > .backgroundLayer {
   height: calc(100% + 0px);
@@ -306,7 +306,7 @@
 #s-f51250c9-f8db-4dfb-b88c-954024739358 #s-Imessage2_2 {
   position: absolute;
   width: 224px;
-  height: 32px;
+  height: 64px;
 }
 #s-f51250c9-f8db-4dfb-b88c-954024739358 #s-Rich_text_25 > .backgroundLayer {
   height: calc(100% + 0px);
@@ -391,7 +391,7 @@
 #s-f51250c9-f8db-4dfb-b88c-954024739358 #s-Imessage1_2 {
   position: absolute;
   width: 225px;
-  height: 31px;
+  height: 62px;
 }
 #s-f51250c9-f8db-4dfb-b88c-954024739358 #s-Rich_text_5 > .backgroundLayer {
   height: calc(100% + 0px);
@@ -476,7 +476,7 @@
 #s-f51250c9-f8db-4dfb-b88c-954024739358 #s-Imessage1_3 {
   position: absolute;
   width: 225px;
-  height: 31px;
+  height: 129px;
 }
 #s-f51250c9-f8db-4dfb-b88c-954024739358 #s-Rich_text_6 > .backgroundLayer {
   height: calc(100% + 0px);
@@ -495,13 +495,13 @@
   border-left-width: 0px;
   border-left-style: solid;
   border-left-color: #000000;
-  border-radius: 37px 37px 37px 37px;
+  border-radius: 48px 48px 48px 48px;
   box-shadow: none;
 }
 #s-f51250c9-f8db-4dfb-b88c-954024739358 #s-Rich_text_6 {
   position: absolute;
   width: 220px;
-  height: 98px;
+  height: 129px;
   -webkit-transform: rotate(0deg);
   -moz-transform: rotate(0deg);
   transform: rotate(0deg);
@@ -515,12 +515,12 @@
   font-family: 'Roboto-Light',Arial;
 }
 #s-f51250c9-f8db-4dfb-b88c-954024739358 #s-Rich_text_6 > .clipping, #s-f51250c9-f8db-4dfb-b88c-954024739358 #s-Rich_text_6 > .paddingLayer {
-  height: 60px;
-  width: 168px;
-  padding-top: 19px;
-  padding-bottom: 19px;
-  padding-left: 26px;
-  padding-right: 26px;
+  height: 81px;
+  width: 158px;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  padding-left: 31px;
+  padding-right: 31px;
 }
 #s-f51250c9-f8db-4dfb-b88c-954024739358 #s-Rich_text_6 .valign {
   vertical-align: middle;
@@ -544,7 +544,7 @@
 #s-f51250c9-f8db-4dfb-b88c-954024739358 #s-Image_54 {
   position: absolute;
   width: 11px;
-  height: 36px;
+  height: 47px;
   -webkit-transform: rotate(0deg);
   -moz-transform: rotate(0deg);
   transform: rotate(0deg);
@@ -554,7 +554,7 @@
   padding-top: 0px;
 }
 #s-f51250c9-f8db-4dfb-b88c-954024739358 #s-Image_54 > img, #s-f51250c9-f8db-4dfb-b88c-954024739358 #s-Image_54 > svg {
-  height: 36px;
+  height: 47px;
   width: 11px;
   box-shadow: none;
 }
