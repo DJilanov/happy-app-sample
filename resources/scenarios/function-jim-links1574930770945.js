@@ -274,28 +274,7 @@
       ]
     },
     "2571b5b8-0445-4af2-8485-ca94249b59ea" : {
-      "Rich_text_44" : [
-        "88dfb81f-8382-4755-a7fd-b9c39c41f65a"
-      ],
-      "Rich_text_45" : [
-        "88dfb81f-8382-4755-a7fd-b9c39c41f65a"
-      ],
-      "Rich_text_46" : [
-        "88dfb81f-8382-4755-a7fd-b9c39c41f65a"
-      ],
       "Text_3" : [
-        "88dfb81f-8382-4755-a7fd-b9c39c41f65a"
-      ],
-      "Rich_text_47" : [
-        "88dfb81f-8382-4755-a7fd-b9c39c41f65a"
-      ],
-      "Rich_text_48" : [
-        "88dfb81f-8382-4755-a7fd-b9c39c41f65a"
-      ],
-      "Rich_text_49" : [
-        "88dfb81f-8382-4755-a7fd-b9c39c41f65a"
-      ],
-      "Rich_text_50" : [
         "88dfb81f-8382-4755-a7fd-b9c39c41f65a"
       ],
       "Image_2" : [
