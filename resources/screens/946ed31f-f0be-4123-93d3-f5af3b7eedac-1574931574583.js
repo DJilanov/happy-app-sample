@@ -1,5 +1,5 @@
 jQuery("#simulation")
-  .on("click", ".s-ae8b2c19-2212-4cfe-b7fc-863a2e478e64 .click", function(event, data) {
+  .on("click", ".s-946ed31f-f0be-4123-93d3-f5af3b7eedac .click", function(event, data) {
     var jEvent, jFirer, cases;
     if(data === undefined) { data = event; }
     jEvent = jimEvent(event);
@@ -13,7 +13,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/4153d8bd-22ea-4b0b-811a-a8cc70a4ceb1",
+                    "target": "screens/7a4e4b28-6029-44e2-8d58-afc7eaa47916",
                     "transition": {
                       "type": "slideleft",
                       "duration": 700
@@ -40,7 +40,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/13240af0-13c0-4cc7-93d9-902c712104a5",
+                    "target": "screens/43a6f81a-5c90-47ab-8525-1f8a1c7d362a",
                     "transition": {
                       "type": "slideleft",
                       "duration": 700
@@ -90,7 +90,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/4f20b5af-e352-4f0d-93b2-918dbd0cb7c1",
+                    "target": "screens/411088f4-eda5-4b42-8a29-3afc48503026",
                     "transition": {
                       "type": "slideleft",
                       "duration": 700

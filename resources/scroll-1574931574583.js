@@ -18,7 +18,9 @@
             jQuery(".s-c7b4759c-4725-46bd-8f61-101c7f5b601f .ui-page").overscroll({ showThumbs:true, direction:'vertical', roundCorners:true, backgroundColor:'black', opacity:'0.5', thickness:'2'});
             jQuery(".s-ae8b2c19-2212-4cfe-b7fc-863a2e478e64 .ui-page").overscroll({ showThumbs:true, direction:'vertical', roundCorners:true, backgroundColor:'black', opacity:'0.5', thickness:'2'});
             jQuery(".s-a78632eb-fc15-4eb1-a883-94b15ff54b8f .ui-page").overscroll({ showThumbs:true, direction:'vertical', roundCorners:true, backgroundColor:'black', opacity:'0.5', thickness:'2'});
+            jQuery(".s-08ed648c-06c3-458f-b0a1-257e6970a6ec .ui-page").overscroll({ showThumbs:true, direction:'vertical', roundCorners:true, backgroundColor:'black', opacity:'0.5', thickness:'2'});
             jQuery(".s-95adc887-3e85-4566-95d6-d7b6077c8c85 .ui-page").overscroll({ showThumbs:true, direction:'multi', roundCorners:true, backgroundColor:'black', opacity:'0.5', thickness:'2'});
+            jQuery(".s-946ed31f-f0be-4123-93d3-f5af3b7eedac .ui-page").overscroll({ showThumbs:true, direction:'vertical', roundCorners:true, backgroundColor:'black', opacity:'0.5', thickness:'2'});
             jQuery(".s-88dfb81f-8382-4755-a7fd-b9c39c41f65a .ui-page").overscroll({ showThumbs:true, direction:'vertical', roundCorners:true, backgroundColor:'black', opacity:'0.5', thickness:'2'});
             jQuery(".s-7a4e4b28-6029-44e2-8d58-afc7eaa47916 .ui-page").overscroll({ showThumbs:true, direction:'vertical', roundCorners:true, backgroundColor:'black', opacity:'0.5', thickness:'2'});
             jQuery(".s-920cd32c-d16d-4fe6-b445-148afcfaf7e5 .ui-page").overscroll({ showThumbs:true, direction:'vertical', roundCorners:true, backgroundColor:'black', opacity:'0.5', thickness:'2'});
