@@ -109,7 +109,11 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/2571b5b8-0445-4af2-8485-ca94249b59ea"
+                    "target": "screens/2571b5b8-0445-4af2-8485-ca94249b59ea",
+                    "transition": {
+                      "type": "slideleft",
+                      "duration": 700
+                    }
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -132,7 +136,11 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/433027c2-d117-4dd8-be09-093d0ce2217e"
+                    "target": "screens/433027c2-d117-4dd8-be09-093d0ce2217e",
+                    "transition": {
+                      "type": "slideleft",
+                      "duration": 700
+                    }
                   },
                   "exectype": "serial",
                   "delay": 0
